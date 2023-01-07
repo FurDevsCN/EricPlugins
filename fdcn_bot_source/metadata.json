@@ -1,0 +1,17 @@
+{
+    "name": "FurDevsCN 机器人列表",
+    "version": "0.1.0",
+    "pack": "module.fdcn_bot_source",
+    "authors": [
+        "nullqwertyuiop"
+    ],
+    "description": "FurDevsCN 机器人列表",
+    "category": [
+        "utility:实用工具"
+    ],
+    "advanced": {
+        "allow_disable": true,
+        "allow_unload": true,
+        "hidden": true
+    }
+}
