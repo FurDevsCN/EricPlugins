@@ -1,0 +1,52 @@
+[
+    {
+        "name": "发病",
+        "version": "0.1.3",
+        "pack": "module.ill",
+        "authors": [
+            "nullqwertyuiop"
+        ],
+        "required": [],
+        "description": "烧！",
+        "category": [
+            "entertainment:娱乐",
+            "random:随机"
+        ],
+        "advanced": {
+            "allow_disable": true,
+            "allow_unload": true,
+            "hidden": false
+        },
+        "size": 19639,
+        "files": [
+            "metadata.json",
+            "__init__.py",
+            "assets/ill_templates.json"
+        ]
+    },
+    {
+        "name": "FurDevsCN 机器人列表",
+        "version": "0.1.0",
+        "pack": "module.fdcn_bot_source",
+        "authors": [
+            "nullqwertyuiop"
+        ],
+        "required": [],
+        "description": "FurDevsCN 机器人列表",
+        "category": [
+            "utility:实用工具"
+        ],
+        "advanced": {
+            "allow_disable": true,
+            "allow_unload": true,
+            "hidden": true
+        },
+        "size": 3176,
+        "files": [
+            "metadata.json",
+            "fetch.py",
+            "__init__.py",
+            "model.py"
+        ]
+    }
+]

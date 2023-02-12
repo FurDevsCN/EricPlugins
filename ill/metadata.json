@@ -1,0 +1,18 @@
+{
+    "name": "发病",
+    "version": "0.1.3",
+    "pack": "module.ill",
+    "authors": [
+        "nullqwertyuiop"
+    ],
+    "description": "烧！",
+    "category": [
+        "entertainment:娱乐",
+        "random:随机"
+    ],
+    "advanced": {
+        "allow_disable": true,
+        "allow_unload": true,
+        "hidden": false
+    }
+}
